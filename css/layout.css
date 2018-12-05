@@ -24,4 +24,30 @@
 
 /* Posititoning Classes */
 
+#shoe-archive {
+ position: relative;
+ display: inline-block;
+ margin-left: 10px;
+ width: 20%;
+ height: 100%;
+}
 
+#featured {
+  position: relative;
+  display: inline-block;
+  width: 75%;
+  margin-bottom: 15px;
+}
+
+.deal-images {
+  position: relative;
+  display: inline-block;
+  width: 31%;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+#details {
+  position: relative;
+  display: inline;
+}
